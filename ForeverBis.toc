@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: |cff33ccffForeverBis|r
+## Notes: Tes B.I.S (Best in Slot) pour ton personnage, en leveling et au niveau 60, selon tes talents et ta priorité de stats, et les B.I.S dans les bulles d'objets. /fbis
+## Notes-frFR: Tes B.I.S (Best in Slot) pour ton personnage, en leveling et au niveau 60, selon tes talents et ta priorité de stats, et les B.I.S dans les bulles d'objets. /fbis
+## Author: antho
+## Version: 0.2.1
+## IconTexture: Interface\AddOns\ForeverBis\Media\Logo
+## SavedVariables: ForeverBisDB
+## SavedVariablesPerCharacter: ForeverBisCharDB
+## AddonCompartmentFunc: ForeverBis_Toggle
+
+Data\Items.lua
+Data\Sources.lua
+Data\StatWeights.lua
+Weights.lua
+Talents.lua
+Core.lua
+UI.lua
+Minimap.lua
